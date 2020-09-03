@@ -526,11 +526,11 @@ h3 { font-size: 16px;}
 #floatboxC {
     width: 200px;
     height: auto;
-    float: right;
+    /*float: right;*/
     margin-right: 50px;
     position: absolute;
     top: 310px;
-    left: 1050px;
+    left: 1000px;
 }
 #pooh1 {
     width: 1200px;
