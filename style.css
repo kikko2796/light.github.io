@@ -53,7 +53,7 @@ h3 { font-size: 16px;}
     float: left;
     background-color: lightskyblue;
     text-align: center;
-    margin: 0 30px 30px 200px;
+    margin: 0 30px 30px 230px;
     padding-top: 30px; 
     padding-bottom: 30px;
     position: relative;
@@ -297,14 +297,15 @@ h3 { font-size: 16px;}
 }
 #enjoyposi2 {
     margin-left: 40px;    
-}.enjoytext {
+}
+.enjoytext {
     position: absolute;
     top: 420px;
     left: 530px;
     width: 280px;
     height: 150px;
-    color: #777777;    position: absolute;
     color: #777777;
+    /*background-color: blueviolet;*/
 }
 .picturee {
     margin-left: 40px;
@@ -318,27 +319,62 @@ h3 { font-size: 16px;}
 .link p a {    
     color: #777777;
 }
+.link .btn a {
+    font-size: 16px;
+    text-decoration: none;
+    color: #777777;
+    background-color: #f2f2e5;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: 1px solid #f2f2e5;
+    box-shadow: 1px 1px 0 #cccc99 inset;
+    text-shadow: 0px -1px 0 #666666;  
+}
+.link .btn a:hover {
+    opacity: 0.7;
+}
+.link .btn {
+    margin: 25px 0;
+}
+
+
 #link1 {
     float: left;
     position: absolute;
-    top: 90px;
+    top: 100px;
     left: 20px;
 }
 #link1 p a {
     color: #777777;
+
 }
+#link1 .btn a{
+    font-size: 16px;
+    text-decoration: none;
+    color: #777777;
+    background-color: #f2f2e5;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid #f2f2e5;
+    box-shadow: 1px 1px 0 #cccc99 inset;
+    text-shadow: 0px -1px 0 #666666;  
+} 
+#link1 .btn a:hover {
+    opacity: 0.7;
+}
+#link1 .btn {
+    margin: 25px 0;
+}
+
 #papiposi {
     margin-left: 200px;
 }
 #poohposi {
     margin-left: 150px;
 }
-#enjoyposi {
-    margin-left: 200px;
-    
-}
+
 #other1 {
-    margin-left: 185px;
+    margin-left: 195px;
     /*background-color: seagreen;*/
     float: left;
 }
@@ -359,17 +395,14 @@ h3 { font-size: 16px;}
 }
 #other5 {
     position: absolute;
-    top: 380px;
+    top: 370px;
     left: 950px;
 
     width: 430px;
     height: 180px;
     text-align: center;
-    line-height: 20px;   
-    
-    /*text-align: center;
     line-height: 20px;
-    float: right;
+    /*float: right;
     position: relative;
     z-index: 1;
     margin-right: 20px;
@@ -380,6 +413,7 @@ h3 { font-size: 16px;}
 #other5 p {
     font-size: 14px;
     color: #777777;
+    
 }
 /*#other3 {
    
@@ -388,8 +422,8 @@ h3 { font-size: 16px;}
     top: 420px;
     left: 530px;
     z-index: 0;
-     background-color: palegreen;*/
- }
+    background-color: palegreen;
+ }*/
 
 #sleep8 {
     position: absolute;
