@@ -296,6 +296,9 @@ h3 { font-size: 16px;}
     position: absolute;
     top: 420px;
     left: 510px;
+    width: 280px;
+    height: 150px;
+    color: #777777;    position: absolute;
     color: #777777;
 }
 .picturee {
@@ -350,16 +353,22 @@ h3 { font-size: 16px;}
     color: #777777;
 }
 #other5 {
-   
+    position: absolute;
+    top: 370px;
+    left: 950px;
+
     width: 430px;
     height: 180px;
     text-align: center;
+    line-height: 20px;   
+    
+    /*text-align: center;
     line-height: 20px;
     float: right;
     position: relative;
     z-index: 1;
     margin-right: 20px;
-    /*background-color: purple;*/
+    background-color: purple;*/
 
 }
 
@@ -367,14 +376,14 @@ h3 { font-size: 16px;}
     font-size: 14px;
     color: #777777;
 }
-#other3 {
+/*#other3 {
    
      float: left;
      position: absolute;
     top: 420px;
     left: 530px;
     z-index: 0;
-    /* background-color: palegreen;*/
+     background-color: palegreen;*/
  }
 
 #sleep8 {
