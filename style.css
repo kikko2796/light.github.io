@@ -553,5 +553,16 @@ left: 1150px;
     font-size: 18px;
 }
 #picturesmile {
-    margin-left: 180px;
+    margin-left: 200px;
+}
+#pooh3 p {
+    font-size: 16px;
+    width: 180px;
+    height: 100px;
+    position: absolute;
+    top: 400px;
+    left: 1180px;
+    color: #777777;
+    text-align: center;
+    /*background-color: fuchsia;*/
 }
