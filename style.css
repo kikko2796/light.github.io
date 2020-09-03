@@ -292,7 +292,12 @@ h3 { font-size: 16px;}
     margin-top: 10px;
     padding-left: 20px;
 }
-.enjoytext {
+#enjoyposi {
+    margin-left: 200px;    
+}
+#enjoyposi2 {
+    margin-left: 40px;    
+}.enjoytext {
     position: absolute;
     top: 420px;
     left: 510px;
