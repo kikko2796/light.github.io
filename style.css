@@ -311,9 +311,9 @@ h3 { font-size: 16px;}
     margin-left: 40px;
 }
 .link {
-    float: left;
+    /*float: left;*/
     position: absolute;
-    top: 40px;
+    top: 60px;
     left: 20px;
 }
 .link p a {    
