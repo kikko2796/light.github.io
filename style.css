@@ -617,12 +617,12 @@ left: 1150px;
     text-align: center;
     /*background-color: fuchsia;*/
 }
-#copyright small {
+.copyright small {
     font-size: 12px;
     line-height: 1.5;
     color: #777777;
 }
-#pagefoot {
+.pagefoot {
     /*background-color: aquamarine;*/
     width: 400px;
     height: 50px;
