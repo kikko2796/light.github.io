@@ -412,8 +412,8 @@ h3 { font-size: 16px;}
 }
 #other2 {
     position: absolute;
-    top: 410px;
-    left: 160px;
+    top: 430px;
+    left: 170px;
     /*margin-left: 140px;
     margin-top: 20px;
     float: left;
@@ -442,7 +442,7 @@ h3 { font-size: 16px;}
 }
 #other5 {
     position: absolute;
-    top: 390px;
+    top: 410px;
     left: 950px;
 
     width: 430px;
