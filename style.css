@@ -374,9 +374,10 @@ h3 { font-size: 16px;}
 }
 #link1 p a {
     color: #777777;
-
 }
-#link1 .btn a{
+#link1 p {
+    color: #777777;
+}#link1 .btn a{
     font-size: 16px;
     text-decoration: none;
     color: #777777;
