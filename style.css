@@ -413,8 +413,8 @@ h3 { font-size: 16px;}
 }
 #other2 {
     position: absolute;
-    top: 430px;
-    left: 170px;
+    top: 410px;
+    left: 210px;
     /*margin-left: 140px;
     margin-top: 20px;
     float: left;
@@ -423,11 +423,14 @@ h3 { font-size: 16px;}
 
 }
 #other3 {
-    position: absolute;
+     margin-left: 600px;
+    /*background-color: seagreen;*/
+    float: right;   
+    /*position: absolute;
     top: 430px;
     left: 600px;
-    /*margin-left: 550px;
-    margin-top: 20px;*/
+    margin-left: 550px;*/
+    margin-top: 20px;
 }
 
 #other4 {
