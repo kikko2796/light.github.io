@@ -627,16 +627,41 @@ left: 1150px;
     color: #777777;
 }
 
-#pagefoot {
-    
-    width: 100%;
+#pagefoot1 {
+ posision: absolute;
+    bottom: 0pix;
+    /*width: 100%;
      text-align: left;
     padding: 5px 0;   
    position: absolute;
     bottom: 0px;
    /* margin-top: auto; */   
 }
-#pagefoot1 {
+#pagefoot2 {
+    posision: absolute;
+    bottom: 0pix;
+}
+#pagefoot3 {
+    posision: absolute;
+    bottom: 0pix;
+}
+#pagefoot4 {
+    posision: absolute;
+    bottom: 0pix;
+}
+#pagefoot5 {
+    posision: absolute;
+    bottom: 0pix;
+}
+#pagefoot6 {
+    posision: absolute;
+    bottom: 0pix;
+}
+#pagefoot7 {
+    posision: absolute;
+    bottom: 0pix;
+}
+#pagefoot8 {
     posision: absolute;
     bottom: 0pix;
 }
