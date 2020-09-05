@@ -212,17 +212,20 @@ h3 { font-size: 16px;}
     height: 550px;
 }
 .size13 {
-    width: 180px;
-    height: auto;
+     width: 30%;
+    height: auto;   
+    /* width: 180px;
+    height: auto;*/
 }
 .size14 {
     width: 240px;
     height: auto;
 }
 .size15 {
-    width: 248px;
-    height: 330px;
-}
+    /*width: 248px;
+    height: 330px;*/
+     width: 30%;
+    height: auto;}
 .size16 {
     /*width: 350px;
     height: 197px;*/
@@ -234,8 +237,10 @@ h3 { font-size: 16px;}
     height: auto;
 }
 .size18 {
-    width: 237;
-    height: 149;
+     width: 30%;
+    height: auto;   
+    /*width: 237;
+    height: 149;*/
 }
 .size19 {
     width: 30%;
