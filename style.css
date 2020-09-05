@@ -633,11 +633,10 @@ left: 1150px;
      text-align: left;
     padding: 5px 0;   
    position: absolute;
-    bottom: 0;
+    bottom: 0px;
    /* margin-top: auto; */   
 }
 #pagefoot1 {
     posision: absolute;
-    top: 900px;
-    left: 20px;
+    bottom: 0pix;
 }
