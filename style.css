@@ -648,16 +648,18 @@ left: 10px;
     bottom: 0pix;
 }
 #pagefoot4 {
-    posision: absolute;
-    bottom: 0pix;
+  position: absolute;
+    top: 900px;
+    left: 10px;
 }
 #pagefoot5 {
     posision: absolute;
     bottom: 0pix;
 }
 #pagefoot6 {
-    posision: absolute;
-    bottom: 0pix;
+   position: absolute;
+    top: 900px;
+    left: 10px;
 }
 #pagefoot7 {
     posision: absolute;
