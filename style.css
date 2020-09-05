@@ -637,6 +637,7 @@ left: 1150px;
    /* margin-top: auto; */   
 }
 #pagefoot1 {
+    posision: absolute;
     top: 800px;
     left: 40px;
 }
