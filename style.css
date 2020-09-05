@@ -26,12 +26,14 @@ h3 { font-size: 16px;}
 #page {
     /*width: 1450px;
     height: auto;
-    margin: 0 0;*/
+    margin: 0 0;
      min-height: 100vh;
-    position: relative;/*←相対位置*/
-    padding-bottom: 80px;/*←footerの高さ*/
+    position: relative;/*←相対位置
+    padding-bottom: 80px;/*←footerの高さ
     box-sizing: border-box;/*←全て含めてmin-height:100vhに*/   
-}
+    display: flex;
+  flex-direction: column;
+  min-height: 100vh;}
 /*見出し*/
 .pageTitle {
     font-size: 40px;
@@ -627,13 +629,10 @@ left: 1150px;
 }
 
 #pagefoot {
-    
-     width: 100%;
-     
+    margin-top: auto;     
+    /*width: 100%;
      text-align: left;
     padding: 5px 0;   
-    
-    
    position: absolute;
-    bottom: 0;
+    bottom: 0;*/
 }
