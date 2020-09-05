@@ -212,7 +212,7 @@ h3 { font-size: 16px;}
     height: 550px;
 }
 .size13 {
-     width: 10%;
+     width: 20%;
     height: auto;   
     /* width: 180px;
     height: auto;*/
@@ -224,12 +224,12 @@ h3 { font-size: 16px;}
 .size15 {
     /*width: 248px;
     height: 330px;*/
-     width: 10%;
+     width: 20%;
     height: auto;}
 .size16 {
     /*width: 350px;
     height: 197px;*/
-    width: 30%;
+    width: 25%;
     height: auto;
 }
 .size17 {
@@ -237,7 +237,7 @@ h3 { font-size: 16px;}
     height: auto;
 }
 .size18 {
-     width: 10%;
+     width: 20%;
     height: auto;   
     /*width: 237;
     height: 149;*/
