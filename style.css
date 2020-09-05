@@ -628,9 +628,11 @@ left: 1150px;
 }
 
 #pagefoot1 {
- posision: absolute;
-    bottom: 0pix;
-    /*width: 100%;
+    position: absolute;
+top: 900px;
+left: 10px; 
+    /*bottom: 0pix;
+    width: 100%;
      text-align: left;
     padding: 5px 0;   
    position: absolute;
