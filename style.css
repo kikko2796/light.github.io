@@ -692,43 +692,43 @@ video {
     writing-mode: vertical-rl;
     /*-ms-writing-mode: tb-rl;*/
      position: absolute;
-     top: 80px;
+     top: 100px;
      left: 215px;
  }
  #come2 {
     writing-mode: vertical-rl;
     position: absolute;
-    top: 70px;
+    top: 100px;
     left: 570px;
 }
 #come3 {
     writing-mode: vertical-rl;
     position: absolute;
-    top: 70px;
+    top: 100px;
     left: 930px;
 }
 #come4 {
     writing-mode: vertical-rl;
     position: absolute;
-    top: 430px;
+    top: 450px;
     left: 15px;
 }
 #come5 {
     writing-mode: vertical-rl;
     position: absolute;
-    top: 430px;
+    top: 450px;
     left: 370px;
 }
 #come6 {
     writing-mode: vertical-rl;
     position: absolute;
-    top: 430px;
+    top: 450px;
     left: 720px;
 }
 #come7 {
     writing-mode: vertical-rl;
     position: absolute;
-    top: 430px;
+    top: 450px;
     left: 1080px;
 }
 #come8 {
