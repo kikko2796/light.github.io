@@ -686,7 +686,7 @@ left: 10px;
 video {
     width: 20%;
     margin: 10px 10px;
-    margin-right: 50px;
+    margin-right: 40px;
     background-color: #f2f2e5;
  }
 #come1 {
@@ -718,7 +718,7 @@ video {
     writing-mode: vertical-rl;
     position: absolute;
     top: 450px;
-    left: 400px;
+    left: 410px;
 }
 #come6 {
     writing-mode: vertical-rl;
