@@ -669,3 +669,94 @@ left: 10px;
     posision: absolute;
     bottom: 0pix;
 }
+#vide1 {
+    margin-left: 210px;
+}
+#vide2 {
+    margin-left: 410px;
+}
+#vide3 {
+    margin-left: 210px;
+}
+#vide4 {
+    margin-top: 40px;
+}
+
+video {
+    width: 20%;
+    margin: 10px 10px;
+    margin-right: 50px;
+    background-color: #f2f2e5;
+ }
+#come1 {
+    writing-mode: vertical-rl;
+    /*-ms-writing-mode: tb-rl;*/
+     position: absolute;
+     top: 60px;
+     left: 215px;
+ }
+ #come2 {
+    writing-mode: vertical-rl;
+    position: absolute;
+    top: 60px;
+    left: 570px;
+}
+#come3 {
+    writing-mode: vertical-rl;
+    position: absolute;
+    top: 60px;
+    left: 930px;
+}
+#come4 {
+    writing-mode: vertical-rl;
+    position: absolute;
+    top: 420px;
+    left: 15px;
+}
+#come5 {
+    writing-mode: vertical-rl;
+    position: absolute;
+    top: 420px;
+    left: 370px;
+}
+#come6 {
+    writing-mode: vertical-rl;
+    position: absolute;
+    top: 420px;
+    left: 720px;
+}
+#come7 {
+    writing-mode: vertical-rl;
+    position: absolute;
+    top: 420px;
+    left: 1080px;
+}
+#come8 {
+    writing-mode: vertical-rl;
+    position: absolute;
+    top: 60px;
+    left: 410px;
+}
+#come9 {
+    writing-mode: vertical-rl;
+    position: absolute;
+    top: 60px;
+    left: 760px;
+}
+#come10 {
+    writing-mode: vertical-rl;
+    position: absolute;
+    top: 390px;
+    left: 200px;
+}
+#come11 {
+    writing-mode: vertical-rl;
+    position: absolute;
+    top: 390px;
+    left: 553px;
+}
+#come12 {
+    position: absolute;
+    top: 390px;
+    left: 1000px;
+}
