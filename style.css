@@ -766,3 +766,7 @@ video {
     top: 100px;
     left: 215px;
 }    
+.pagefoot {
+    posision: absolute;
+    bottom: 0pix;
+}
